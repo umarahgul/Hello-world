@@ -1,31 +1,63 @@
-# Hello-world
+[Hello Microverse]
+This is my first Microverse project, a webpage that says "Hello Microverse".
 
-[Hello-world] hello Microverse Milestone completed
+[your_project__name] is a...
 
--------------------------------------------------
-Built With
--------------------------------------------------
-* HTML
-* CSS 
+🛠 Built With
+Tech Stack
+HTML 
+CSS.
 
------------------------------------------------
 Key Features
-------------------------------------------------
-* index.html file
-* styles.css file
-* added linters 
+
+[Default style sheet (CSS file)]
+[HTML5]
+[linters]
 
 
-
- 
-----------------------------------------------
-Author
------------------------------------------------
-Umarah Gul
+💻 Getting Started
 
 
+To get a local copy up and running, follow these steps.
 
------------------------------------------------------
-Future Features 
------------------------------------------------------
-The project would be developed to a full-blown website
+Prerequisites
+In order to run this project you need: Visual Studio(any other IDE), Browser, Git, GitHub Actions, WebHint, and Styleint linters. 
+
+Setup
+Clone this repository to your desired folder: git clone <project url> 
+
+
+👥 Authors
+
+
+👤 Author
+
+GitHub: @umarahgul
+Twitter: @umarahgul
+LinkedIn: umarahgul
+
+
+🔭 Future Features
+
+
+ [javascript]
+
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the issues page.
+
+
+⭐️ Show your support
+
+
+If you like this project please follow at https://github/umarahgul 
+
+
+🙏 Acknowledgments
+
+
+I would like to thank Microverse, and Microverse community who inspired me to write this code.
+
+
