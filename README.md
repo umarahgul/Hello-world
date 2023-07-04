@@ -5,8 +5,6 @@ Hello-world
 📖 About the Project
 🛠 Built With
 Tech Stack
-Key Features
-🚀 Live Demo
 💻 Getting Started
 Setup
 Prerequisites
@@ -21,6 +19,9 @@ Install
 
 🛠 Built With
 Tech Stack
+HTML5
+CSS
+Linters
 (back to top)
 
 💻 Getting Started
