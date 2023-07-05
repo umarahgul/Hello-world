@@ -1,7 +1,6 @@
 <a name="readme-top"></a>
 
 
-
 <div align="center">
  
   <h3><b>Hello world</b></h3>
@@ -34,14 +33,12 @@
 
 # 📖 [Hello_world] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **Hello world** is a is a simple web application that uses HTML, CSS, and linters to showcase the github flow and proper documentation skills. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
 
 
 <details>
@@ -51,8 +48,6 @@
     <li>CSS</li>
   </ul>
 </details>
-
-<details>
 
 ### Key Features <a name="key-features"></a>
 
