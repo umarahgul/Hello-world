@@ -1,15 +1,17 @@
-
-
-Hello-world
-# 📗 Table of Contents
+                            "Hello World"
+ 
+ Table of Contents
 📖 About the Project
 🛠 Built With
 Tech Stack
+Key Features
+🚀 Live Demo
 💻 Getting Started
 Setup
 Prerequisites
 Install
 👥 Authors
+🔭 Future Features
 🤝 Contributing
 ⭐️ Show your support
 🙏 Acknowledgements
@@ -19,16 +21,19 @@ Install
 
 🛠 Built With
 Tech Stack
-HTML5
-CSS
-Linters
+Client
+### Key Features - A web page that says "Hello Microverse" with the color.
+(back to top)
+
+🚀 Live Demo
+comming soon
 (back to top)
 
 💻 Getting Started
 To get a local copy up and running, follow these steps.
 
 Prerequisites
-In order to run this project you need:
+In order to run this project you need: Visual Studio(any other IDE), Browser, Git, GitHub Actions, WebHint, and Styleint linters. 
 
 Git: Download and install Git for your platform.
 Node.js: Download and install Node.js for your platform
@@ -42,6 +47,7 @@ Install linters for this project with:
 
   cd my-project
   npm install
+
 (back to top)
 
 👥 Authors
@@ -51,9 +57,13 @@ GitHub: @umarahgul LinkedIn: umarahgul
 
 (back to top)
 
+🔭 Future Features
+ Add animation
+ Add backend
+(back to top)
 
 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page. If you wish to contribute to the Hello-world project, you can follow these steps: Fork the repository to your GitHub account. Create a new branch for your feature or bug fix. Make your changes and commit them with descriptive commit messages. Push the changes to your forked repository. Open a pull request to the original repository, describing your changes.
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page. If you wish to contribute to the PortfoilioMicroverse project, you can follow these steps: Fork the repository to your GitHub account. Create a new branch for your feature or bug fix. Make your changes and commit them with descriptive commit messages. Push the changes to your forked repository. Open a pull request to the original repository, describing your changes.
 
 (back to top)
 
@@ -69,5 +79,3 @@ I would like to thank Microverse for providing a steep learning curve and making
 
 📝 License
 This project is MIT licensed.
-
-(back to top)
